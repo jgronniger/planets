@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 planets.Rproj
+*.dat
